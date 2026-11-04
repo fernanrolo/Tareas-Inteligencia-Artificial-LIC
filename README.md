@@ -9,5 +9,5 @@
 | Ejercicio_5 | [Búsqueda informada, ejercicio 1](Ejercicio_5/Reporte_BusquedaInformada_FernandoRodriguez.pdf) |
 | Ejercicio_6 | [Perceptrón multicapa y Keras](Ejercicio_6) |
 | Ejercicio_7 | [Clustering con k-medias, ejercicio 1](Ejercicio_7/01_K_medias_FernandoRodriguez.ipynb) |
-| Ejercicio_8 | [Q-learning, ejercicio 1](Ejercicio_8/01_Q_learning_FernandoRodriguez.ipynb) |
-| Ejercicio_9 | [Razonamiento lógico, ejercicio 1](Ejercicio_9/01_Razonamiento_Logico_FernandoRodriguez.ipynb) |
+| Ejercicio_8 | [Q-learning, ejercicio 1](Ejercicio_8/entrega-q-learning_FernandoRodriguez.zip) |
+| Ejercicio_9 | [Razonamiento lógico, ejercicio 1](Ejercicio_9/entrega-razonamiento-logico_FernandoRodriguez.zip) |
